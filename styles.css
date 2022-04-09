@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #f5f5f5;
+}
+
+.heading {
+    background: #ed906b url("https://i.postimg.cc/15Nzs4WS/karim-manjra-fm9wq-DNXy-Q0-unsplash.jpg") fixed center;
+    background-size: cover;
+    color: #f5f5f5;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    text-shadow: 0px 0px 10px #000;
+}
+
+.card {
+    margin: 50px auto;
+    background-color: #fff;
+    width: 600px;
+    border-radius: 10px;
+    border: 1px solid #999;
+    padding: 15px;
+}
+
+.subtitle {
+    color: #999;
+    font-style: italic;
+}
